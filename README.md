@@ -27,6 +27,7 @@ This repository stores various AWS and K8s security resources
 
 ## Tools
 ### AWS
+- [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management(CSPM) 
 - [prowler](https://github.com/prowler-cloud/prowler) - Security Vulnerability Scanner
 - [check_imds](https://github.com/zer0-kr/SecOpsTools/blob/main/aws/check_imds.py) - IMDSv1 Scanner
