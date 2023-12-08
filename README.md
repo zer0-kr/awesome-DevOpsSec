@@ -1,1 +1,1 @@
-# awesome-DevOpsSec
+# Awesome DevOpsSec resources
