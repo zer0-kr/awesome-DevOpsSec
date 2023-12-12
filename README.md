@@ -24,6 +24,7 @@ This repository stores various AWS and K8s security resources
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/level1.html)
 - [The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
 
 ## Tools
 ### AWS
