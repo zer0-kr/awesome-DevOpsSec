@@ -15,6 +15,7 @@ This repository stores various AWS and K8s security resources
 - [K8s Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
 - [Kubernetes Hardening Guide](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 - [Securing a K8s Cluster](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
+- [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/)
 
 ### Articles
 - [Debugging Kubernetes Pods: Deep Dive](https://betterprogramming.pub/debugging-kubernetes-pods-deep-dive-d6b2814cd8ce)
