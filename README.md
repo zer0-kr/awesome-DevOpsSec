@@ -22,7 +22,7 @@ This repository stores various AWS and K8s security resources
 - [K8s 2024 standard arch](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2024/2024-k8s-stnd-arch.pdf)
 
 ### Workshops
-- [Amazon EKS 워크샵](https://awskrug.github.io/eks-workshop/)
+- [Amazon EKS Workshops](https://awskrug.github.io/eks-workshop/)
 - [AWS Well Architected Labs - Security](https://wellarchitectedlabs.com/security/)
 - [AWS Security Workshops](https://awssecworkshops.com/)
 
