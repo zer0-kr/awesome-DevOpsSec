@@ -29,7 +29,7 @@ This repository stores various AWS and K8s security resources
 
 ### Conferences
 - [AWS Security and Risk Management Forum 2023](https://www.awssecevents.com/ondemandtracks/)
-- [Kubernetes Security Best Practices - Ian Lewis, Google](https://www.youtube.com/watch?v=wqsUfvRyYpw&t=123s&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D)
+- [Kubernetes Security Best Practices](https://www.youtube.com/watch?v=wqsUfvRyYpw&t=123s&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D)
 
 ### Challenges
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
