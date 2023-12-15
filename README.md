@@ -19,7 +19,7 @@ This repository stores various AWS and K8s security resources
 
 ### Articles
 - [Detailed Analysis of CloudDon, Cloud Data Breach of Korea e-commerce company](https://medium.com/s2wblog/detailed-analysis-of-clouddon-cloud-data-breach-of-korea-e-commerce-company-948c3a5df90d)
-- [K8s 2024 standard arch](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2024/2024-k8s-stnd-arch.pdf)
+- [K8s Standard Architecture(2024)](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2024/2024-k8s-stnd-arch.pdf)
 
 ### Workshops
 - [Amazon EKS Workshops](https://awskrug.github.io/eks-workshop/)
