@@ -37,6 +37,10 @@ This repository stores various AWS and K8s security resources
 - [The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
 
+### Trannings
+- [AWS Certified Security Specialty](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
+- [Certified Kubernetes Security Specialist](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
+
 ## Tools
 ### AWS
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management(CSPM) 
