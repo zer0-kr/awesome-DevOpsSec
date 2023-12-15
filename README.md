@@ -18,8 +18,7 @@ This repository stores various AWS and K8s security resources
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/)
 
 ### Articles
-- [Debugging Kubernetes Pods: Deep Dive](https://betterprogramming.pub/debugging-kubernetes-pods-deep-dive-d6b2814cd8ce)
-- [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+- [Detailed Analysis of CloudDon, Cloud Data Breach of Korea e-commerce company](https://medium.com/s2wblog/detailed-analysis-of-clouddon-cloud-data-breach-of-korea-e-commerce-company-948c3a5df90d)
 - [K8s 2024 standard arch](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2024/2024-k8s-stnd-arch.pdf)
 
 ### Workshops
