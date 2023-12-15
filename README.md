@@ -19,6 +19,7 @@ This repository stores various AWS and K8s security resources
 
 ### Articles
 - [Detailed Analysis of CloudDon, Cloud Data Breach of Korea e-commerce company](https://medium.com/s2wblog/detailed-analysis-of-clouddon-cloud-data-breach-of-korea-e-commerce-company-948c3a5df90d)
+- [How I was able to access millions of ID cards on an e-commerce platform](https://sanggiero.com/posts/how-i-was-able-to-access-millions-id-cards-e-commerce/)
 - [K8s Standard Architecture(2024)](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2024/2024-k8s-stnd-arch.pdf)
 
 ### Workshops
