@@ -11,12 +11,14 @@ This repository stores various AWS and K8s security resources
 
 ### Documents
 > #### AWS
+- [CIS Amazon Web Services Foundations Benchmark v2.0.0](https://downloads.cisecurity.org/#/)
 - [AWS Foundational Security Best Practices (FSBP) standard](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html?fbclid=IwAR1G_Me8JWLdln5QdCbtOobzLkbG5pNtZX3RhkxXWynZa6ZIMsadtE5ZkWc_aem_th_AcNTJ4ku8j1NdTdF8W3tjUKcBGe0vWbKvIQNV3ibO00ezQaBCG8PyGYu5Tf35q8mt1s)
 - [AWS Cloud Security Checklist](https://securitycipher.com/aws-security-checklist/)
 - [Ultimate Guide to Incident Response in AWS](https://14518100.fs1.hubspotusercontent-na1.net/hubfs/14518100/Playbooks/Playbook_Ultimate%20Guide%20to%20Incident%20Response%20in%20AWS.pdf)
 > #### Kubernetes
-- [K8s Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
+- [CIS Kubernetes Benchmark v1.8.0](https://downloads.cisecurity.org/#/)
 - [Kubernetes Hardening Guide](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
+- [K8s Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
 - [Securing a K8s Cluster](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
 - [EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/)
 
