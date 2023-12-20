@@ -8,6 +8,7 @@ This repository stores various AWS and K8s security resources
 - [AWS 보안 점검 및 보안 설정 가이드](https://rogue-gouda-f87.notion.site/AWS-de0b5749d03b464ea2e555cba3974d0b)
 - [CloudNet@ Blog](https://gasidaseo.notion.site/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
 - [MR.ZERO](https://mr-zero.tistory.com/)
+- [Rhino Security Labs Strategic & Technical Blog](https://rhinosecuritylabs.com/blog/?category=aws,cloud-security)
 
 ### Documents
 > #### AWS
@@ -24,7 +25,6 @@ This repository stores various AWS and K8s security resources
 
 ### Articles
 > #### AWS
-- [Rhino Security Labs Strategic & Technical Blog](https://rhinosecuritylabs.com/blog/?category=aws,cloud-security)
 - [AWS IAM Privilege Escalation – Methods and Mitigation](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/)
 - [Detailed Analysis of CloudDon, Cloud Data Breach of Korea e-commerce company](https://medium.com/s2wblog/detailed-analysis-of-clouddon-cloud-data-breach-of-korea-e-commerce-company-948c3a5df90d)
 - [How I was able to access millions of ID cards on an e-commerce platform](https://sanggiero.com/posts/how-i-was-able-to-access-millions-id-cards-e-commerce/)
