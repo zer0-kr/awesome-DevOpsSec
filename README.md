@@ -33,9 +33,9 @@ This repository stores various AWS and K8s security resources
 - [AWS IAM Privilege Escalation – Methods and Mitigation](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/)
 - [Detailed Analysis of CloudDon, Cloud Data Breach of Korea e-commerce company](https://medium.com/s2wblog/detailed-analysis-of-clouddon-cloud-data-breach-of-korea-e-commerce-company-948c3a5df90d)
 - [How I was able to access millions of ID cards on an e-commerce platform](https://sanggiero.com/posts/how-i-was-able-to-access-millions-id-cards-e-commerce/)
-- [15 Kubernetes Mistakes Side Effects Chart](https://media.licdn.com/dms/image/D5622AQE16FqhBpZuVw/feedshare-shrink_2048_1536/0/1704266850434?e=1707350400&v=beta&t=3SBZbfjb-POP5Rd68LZjmabkPnwG1VPy2I4aTmH7sEo)
 > #### Kubernetes
 - [K8s Standard Architecture(2024)](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2024/2024-k8s-stnd-arch.pdf)
+- [15 Kubernetes Mistakes Side Effects Chart](https://media.licdn.com/dms/image/D5622AQE16FqhBpZuVw/feedshare-shrink_2048_1536/0/1704266850434?e=1707350400&v=beta&t=3SBZbfjb-POP5Rd68LZjmabkPnwG1VPy2I4aTmH7sEo)
 
 ### Workshops
 > #### AWS
