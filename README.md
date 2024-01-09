@@ -51,7 +51,7 @@ This repository stores various AWS and K8s security resources
 - [Cloud Security Attacks](https://github.com/CyberSecurityUP/Cloud-Security-Attacks?tab=readme-ov-file)
 
 ### Conferences
-- [https://github.com/awskrug/security-group/tree/main](AWSKRUG Security Group)
+- [AWSKRUG Security Group](https://github.com/awskrug/security-group/tree/main)
 - [AWS Security and Risk Management Forum 2023](https://www.awssecevents.com/ondemandtracks/)
 - [Kubernetes Security Best Practices](https://www.youtube.com/watch?v=wqsUfvRyYpw&t=123s&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D)
 
