@@ -49,6 +49,7 @@ This repository stores various AWS and K8s security resources
 - [CLOUDVULNDB](https://www.cloudvulndb.org/)
 - [Public Cloud Security Breaches](https://www.breaches.cloud/)
 - [Cloud Security Attacks](https://github.com/CyberSecurityUP/Cloud-Security-Attacks?tab=readme-ov-file)
+- [aws-customer-security-incidents](https://github.com/ramimac/aws-customer-security-incidents?tab=readme-ov-file)
 
 ### Conferences
 - [AWSKRUG Security Group](https://github.com/awskrug/security-group/tree/main)
