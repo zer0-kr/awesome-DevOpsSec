@@ -88,6 +88,7 @@ This repository stores various AWS and K8s security resources
 ## Tools
 ### AWS
 - [prowler](https://github.com/prowler-cloud/prowler) - Security Vulnerability Scanner
+- [steampipe](https://github.com/turbot/steampipe) - zero-ETL solution for getting data directly from APIs and services
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management(CSPM) 
 - [check_imds](https://github.com/zer0-kr/SecOpsTools/blob/main/aws/check_imds.py) - IMDSv1 Scanner
 - [pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework
