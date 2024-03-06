@@ -69,6 +69,7 @@ This repository stores various AWS and K8s security resources
 > #### Theme
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/level1.html)
 - [EKS Game](https://eksclustergames.com/)
+- [K8s Game](https://k8slanparty.com/)
 > #### Misconfigured
 - [flAWS](http://flaws.cloud/)
 - [flAWS2](http://flaws2.cloud/)
