@@ -35,7 +35,7 @@ This repository stores various AWS and K8s security resources
 - [How I was able to access millions of ID cards on an e-commerce platform](https://sanggiero.com/posts/how-i-was-able-to-access-millions-id-cards-e-commerce/)
 > #### Kubernetes
 - [K8s Standard Architecture(2024)](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2024/2024-k8s-stnd-arch.pdf)
-- [15 Kubernetes Mistakes Side Effects Chart](https://media.licdn.com/dms/image/D5622AQE16FqhBpZuVw/feedshare-shrink_2048_1536/0/1704266850434?e=1707350400&v=beta&t=3SBZbfjb-POP5Rd68LZjmabkPnwG1VPy2I4aTmH7sEo)
+- [15 Kubernetes Mistakes Side Effects Chart](https://media.licdn.com/dms/image/D5622AQEZwQUKLg0KxQ/feedshare-shrink_2048_1536/0/1692951628708?e=1720656000&v=beta&t=-3JuAClEi9lVYLEzXZ1uWfvrNiFqRqsyoEu9SexYlw0)
 
 ### Workshops
 > #### AWS
