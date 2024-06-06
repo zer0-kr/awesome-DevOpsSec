@@ -77,7 +77,7 @@ This repository stores various AWS and K8s security resources
 
 ### Trannings
 - [AWS Certified Security Specialty](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
-- [Certified Kubernetes Security Specialist](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
+- [Certified Kubernetes Security Specialist](https://www.youtube.com/watch?v=Jd_j2wruz6E&list=PLpbwBK0ptssx38770vYNwZEuCeGNw54CH)
 
 ### etc
 - [ATT&CK](https://attack.mitre.org/#)
