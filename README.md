@@ -53,7 +53,6 @@ This repository stores various AWS and K8s security resources
 
 ### Conferences
 - [AWSKRUG Security Group](https://github.com/awskrug/security-group/tree/main)
-- [AWS Security and Risk Management Forum 2023](https://www.awssecevents.com/ondemandtracks/)
 - [AWS 리소스 허브](https://kr-resources.awscloud.com/)
 - [Kubernetes Security Best Practices](https://www.youtube.com/watch?v=wqsUfvRyYpw&t=123s&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D)
 
